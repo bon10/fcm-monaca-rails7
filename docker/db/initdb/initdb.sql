@@ -1,0 +1,1 @@
+CREATE DATABASE fcm_monaca_rails_development;
